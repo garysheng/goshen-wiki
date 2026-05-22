@@ -1,27 +1,16 @@
 ---
 title: Concepts
-slug: /concepts
-description: "The lexicon. Coined terms across the wiki, defined once, cross-linked throughout."
+description: The why and the what of Christofuturist villages. Foundational ideas, named patterns, and the connective tissue that holds the playbooks together. Grows from Inspirations as lifts graduate.
+sidebar_position: 1
 ---
 
 # Concepts
-
-*The lexicon. Each entry is one short page: canonical definition, body that earns the term, Further Reading inside and outside the wiki.*
+*The why and the what of Christofuturist villages. Foundational ideas, named patterns, and the connective tissue that holds the playbooks together.*
 
 ---
 
-The Concepts section is a flat A-Z dictionary. Use it as the canonical reference for every coined term that appears across the wiki. Other sections link into it; concepts link to each other; nothing duplicates a definition that lives here.
+Empty on purpose. Concepts grow here as `goshen-field-notes` runs graduate lifts from [Inspirations](/inspirations/) into named, citable pages.
 
-## How the lexicon is shaped
+The shape this category is headed for lives in the [README roadmap](https://github.com/garysheng/goshen-wiki#eventual-shape), Foundations, Christoindustrialist Path, Christoindustries, Land, Community, Economy, Education, Civic.
 
-- **One entry per coined term.** If a phrase recurs across multiple articles and an outside reader would have to ask "what do you mean by that?", it has a home here.
-- **Italic definition line under the H1.** Every entry opens with a one-line definition you can quote into a sentence as a subject or object.
-- **Further Reading at the bottom.** Inside-the-wiki neighbors plus outside sources. The neighbors make the lexicon a graph rather than a list.
-
-## How to use it
-
-- **As a glossary.** Look up a term. Read the italic line. Move on.
-- **As a starting point for research.** Click into a concept, follow Further Reading, land somewhere unexpected.
-- **As an architecture diagram.** Cross-links between concepts are the wiki's ontology.
-
-See `templates/concept.mdx` at the repo root for the copy-and-rename scaffold.
+Until then, the [Refound America manifesto](/start-here/the-refound-america-manifesto) and the [Lexicon](/reference/lexicon) carry the conceptual weight.

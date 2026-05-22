@@ -1,36 +1,55 @@
 ---
-title: Voice Rules
-slug: /reference/voice-rules
-description: "Writing constraints every page is held to. Edit per wiki."
+title: Voice rules
+description: The writing constraints for every page in the Goshen wiki. Christofuturist baseline; hot opener and cooler operator body on chapters.
 ---
 
-# Voice Rules
-
-*Writing constraints every page is held to. Edit per wiki to match the operator's house style.*
+# Voice rules
+*The writing constraints for every page in the Goshen wiki. Christofuturist baseline; hot opener and cooler operator body on chapters.*
 
 ---
 
-Voice rules keep the wiki coherent across contributors. Replace the defaults below with your wiki's specific constraints.
+## Hard rules
 
-## Page anatomy (non-negotiable)
+These are non-negotiable. The `goshen-field-notes` skill greps for violations before every commit.
 
-- Frontmatter with `title`, `slug`, `description`, `sidebar_position` (where applicable).
-- H1 matches the title.
-- Italic one-line definition directly under the H1.
-- `---` divider before the body.
-- 3-5 named H2 sections in the body.
-- "Further Reading" section at the bottom with cross-links.
+- **No em dashes.** Use periods, commas, parens, or colons.
+- **No "not X but Y" inversions.** Rephrase positively.
+- **Capital-C Christofuturist** always.
+- **No `Co-Authored-By` lines in commit messages.**
 
-## Voice (edit per wiki)
+## Soft rules
 
-- Direct, economical. Every word earns its place.
-- Concrete over abstract. Specifics over categories.
-- No em dashes. Use periods, commas, or colons instead.
-- No motivational poster language. No clichés.
-- Define every coined term in [Concepts](/concepts). Cross-link, do not redefine.
+- **Hot opener on every chapter, concept, and playbook page.** A few sentences at the top that frame why this matters in the flood era. Scripture allowed inline. Declarations encouraged.
+- **Cooler operator body underneath.** Once the why is set, the how is prescriptive, specific, named (frameworks, models, playbooks), and actionable.
+- **Cross-link to FaithWalk OS for upstream principles.** Never re-explain Ark Village, Formation Crisis, Elevation Centers, Kingdom Enterprises, Divine Principle First Design, etc. The Goshen wiki owns the applied layer; FaithWalk OS owns the principles.
+- **Compression.** A clear sentence beats a clear paragraph. Three named tradeoffs beat ten generic ones.
 
-## Cross-linking
+## Page anatomy
 
-- Use Docusaurus-style absolute paths: `/concepts/term-name`, not relative.
-- Every page should link to at least two other pages in the Further Reading section.
-- Concepts link to each other. The lexicon is a graph.
+Every content page should follow this shape:
+
+```
+---
+title: <Title>
+description: <One-sentence description>
+---
+
+# <Title>
+*<Italic one-line definition>*
+
+---
+
+## <H2 section 1>
+<prose>
+
+## <H2 section 2>
+<prose>
+
+## Further Reading
+- <cross-links>
+
+## Sources
+- <links to inspiration files that fed this page>
+```
+
+The `## Sources` section is required for any page born from a `goshen-field-notes` run, optional for deliberate authoring.
