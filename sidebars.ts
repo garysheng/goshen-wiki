@@ -44,7 +44,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Reference',
       collapsed: true,
-      items: ['reference/lexicon', 'reference/voice-rules'],
+      items: ['reference/lexicon', 'reference/voice-rules', 'reference/village-research-prompt'],
     },
   ],
 };
