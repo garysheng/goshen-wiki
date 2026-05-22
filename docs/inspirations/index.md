@@ -12,6 +12,7 @@ Inspirations are processed via the `goshen-field-notes` global skill. The skill 
 
 | Date | Source | Topic | Routed to |
 |------|--------|-------|-----------|
+| 2026-05-21 | ChatGPT Deep Research | [What Ave Maria, Florida teaches a Christoindustrialist](./2026-05-21-ave-maria-florida) | 8 new pages (1 case study, 5 concepts, 2 playbooks) + 4 Supporting voices |
 | 2026-05-21 | Morning Brew (YouTube) | [What Bentonville teaches a Christoindustrialist](./2026-05-21-bentonville-walmart-anchored-town) | 8 new pages (1 case study, 6 concepts, 1 playbook) |
 
 *(This table is auto-updated by the skill. New rows are prepended so the most recent run appears at the top.)*
