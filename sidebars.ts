@@ -46,6 +46,7 @@ const sidebars: SidebarsConfig = {
       collapsed: true,
       items: ['reference/lexicon', 'reference/voice-rules', 'reference/village-research-prompt'],
     },
+    'changelog',
   ],
 };
 
