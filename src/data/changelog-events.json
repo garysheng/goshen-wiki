@@ -1,0 +1,434 @@
+{
+  "changeEvents": [
+    {
+      "id": "start-here/intro@25009f2764e5e006080683db82ea1339ba628969",
+      "type": "updated",
+      "date": "2026-06-10T22:21:04-05:00",
+      "docKey": "start-here/intro",
+      "routePath": "/",
+      "section": "start-here",
+      "title": "What is a Christofuturist village?"
+    },
+    {
+      "id": "concepts/christocompound@e1ffff2debffdb5252cc9412e33faf63b5dcc3e8",
+      "type": "new",
+      "date": "2026-05-22T00:12:59-05:00",
+      "docKey": "concepts/christocompound",
+      "routePath": "/concepts/christocompound",
+      "section": "concepts",
+      "title": "Christocompound",
+      "description": "The physical convergence point inside a Christofuturist village where worship, food, learning, daycare, healthcare, coworking, and community meet. Often a single multipurpose building or campus."
+    },
+    {
+      "id": "concepts/christoculture@e1ffff2debffdb5252cc9412e33faf63b5dcc3e8",
+      "type": "new",
+      "date": "2026-05-22T00:12:59-05:00",
+      "docKey": "concepts/christoculture",
+      "routePath": "/concepts/christoculture",
+      "section": "concepts",
+      "title": "Christoculture",
+      "description": "The distinct local culture of a specific Christofuturist village. Two villages can share the same Christ-first foundation while developing different worship styles, customs, industries, denominational flavors, and rhythms."
+    },
+    {
+      "id": "concepts/christoindustrialist@e1ffff2debffdb5252cc9412e33faf63b5dcc3e8",
+      "type": "new",
+      "date": "2026-05-22T00:12:59-05:00",
+      "docKey": "concepts/christoindustrialist",
+      "routePath": "/concepts/christoindustrialist",
+      "section": "concepts",
+      "title": "Christoindustrialist",
+      "description": "The leader who anchors a Christofuturist village. A person who has received God's heart for a specific people and place, who anchors a Christoindustry, and around whom a community organically forms."
+    },
+    {
+      "id": "concepts/christoindustry@e1ffff2debffdb5252cc9412e33faf63b5dcc3e8",
+      "type": "new",
+      "date": "2026-05-22T00:12:59-05:00",
+      "docKey": "concepts/christoindustry",
+      "routePath": "/concepts/christoindustry",
+      "section": "concepts",
+      "title": "Christoindustry",
+      "description": "An unambiguously good engine of human flourishing. An industry whose profits do not come at the expense of human wellbeing, fleshly desires, or spiritual mediocrity."
+    },
+    {
+      "id": "start-here/intro@e1ffff2debffdb5252cc9412e33faf63b5dcc3e8",
+      "type": "updated",
+      "date": "2026-05-22T00:12:59-05:00",
+      "docKey": "start-here/intro",
+      "routePath": "/",
+      "section": "start-here",
+      "title": "What is a Christofuturist village?"
+    },
+    {
+      "id": "inspirations/2026-05-21-ave-maria-florida@fff5509ec1610abb0df0c120797d636036936953",
+      "type": "updated",
+      "date": "2026-05-21T22:58:18-05:00",
+      "docKey": "inspirations/2026-05-21-ave-maria-florida",
+      "routePath": "/inspirations/2026-05-21-ave-maria-florida",
+      "section": "inspirations",
+      "title": "What Ave Maria, Florida teaches a Christoindustrialist",
+      "description": "Tom Monaghan + Barron Collier built a Catholic-anchored master-planned town in Southwest Florida over 20 years. The patterns, the failure modes, and the four-condition fit that make Ave Maria the closest existing Christian-anchored parallel to a Christofuturist village."
+    },
+    {
+      "id": "inspirations/2026-05-21-bentonville-walmart-anchored-town@fff5509ec1610abb0df0c120797d636036936953",
+      "type": "updated",
+      "date": "2026-05-21T22:58:18-05:00",
+      "docKey": "inspirations/2026-05-21-bentonville-walmart-anchored-town",
+      "routePath": "/inspirations/2026-05-21-bentonville-walmart-anchored-town",
+      "section": "inspirations",
+      "title": "What Bentonville teaches a Christoindustrialist",
+      "description": "The Walton family + Walmart built a thriving small city around their corporate HQ over 25 years. The patterns, the failure modes, and the four conditions a Christoindustrialist would need to satisfy to do the same with Christ at the center."
+    },
+    {
+      "id": "start-here/intro@fff5509ec1610abb0df0c120797d636036936953",
+      "type": "updated",
+      "date": "2026-05-21T22:58:18-05:00",
+      "docKey": "start-here/intro",
+      "routePath": "/",
+      "section": "start-here",
+      "title": "What is a Christofuturist village?"
+    },
+    {
+      "id": "case-studies/ave-maria-florida@93f3633c2608647065ce3e3810bc5cbefa190ffc",
+      "type": "new",
+      "date": "2026-05-21T22:36:23-05:00",
+      "docKey": "case-studies/ave-maria-florida",
+      "routePath": "/case-studies/ave-maria-florida",
+      "section": "case-studies",
+      "title": "Ave Maria, Florida",
+      "description": "A Catholic-anchored master-planned town in Southwest Florida. Founded 2002-2007 by Tom Monaghan on land donated by Barron Collier. The closest existing Christian-anchored parallel to a Christofuturist village."
+    },
+    {
+      "id": "case-studies/bentonville-walmart-anchored-town@93f3633c2608647065ce3e3810bc5cbefa190ffc",
+      "type": "updated",
+      "date": "2026-05-21T22:36:23-05:00",
+      "docKey": "case-studies/bentonville-walmart-anchored-town",
+      "routePath": "/case-studies/bentonville-walmart-anchored-town",
+      "section": "case-studies",
+      "title": "Bentonville: the Walmart-anchored town",
+      "description": "A 25-year case study of what a single anchor industry plus a founding family that stayed can produce. The most complete secular precursor we have to a Christofuturist village, including the patterns to imitate and the failure modes to invert."
+    },
+    {
+      "id": "concepts/cultural-drift-risk@93f3633c2608647065ce3e3810bc5cbefa190ffc",
+      "type": "new",
+      "date": "2026-05-21T22:36:23-05:00",
+      "docKey": "concepts/cultural-drift-risk",
+      "routePath": "/concepts/cultural-drift-risk",
+      "section": "concepts",
+      "title": "Cultural drift risk",
+      "description": "The slow failure mode where commercial success dilutes the founding sacred mission. The village becomes amenity-rich rather than Christ-centered. Distinct from sudden collapse; this is mission-erosion-by-success."
+    },
+    {
+      "id": "concepts/founder-patron-pattern@93f3633c2608647065ce3e3810bc5cbefa190ffc",
+      "type": "new",
+      "date": "2026-05-21T22:36:23-05:00",
+      "docKey": "concepts/founder-patron-pattern",
+      "routePath": "/concepts/founder-patron-pattern",
+      "section": "concepts",
+      "title": "Founder-patron pattern",
+      "description": "The Christoindustrialist bundles four things in one person: spiritual conviction, serious capital, anchor-institution commitment, and decades-long presence. Monaghan and the Walton family are the two strongest empirical examples."
+    },
+    {
+      "id": "concepts/private-capital-replaces-public-infrastructure@93f3633c2608647065ce3e3810bc5cbefa190ffc",
+      "type": "updated",
+      "date": "2026-05-21T22:36:23-05:00",
+      "docKey": "concepts/private-capital-replaces-public-infrastructure",
+      "routePath": "/concepts/private-capital-replaces-public-infrastructure",
+      "section": "concepts",
+      "title": "Private capital replaces public infrastructure",
+      "description": "A Christoindustrialist with sufficient capital can fund civic infrastructure directly on their own timeline rather than waiting for public budgets. The speed advantage is real, the dependency tradeoff is real, and the accountability question is the one to solve."
+    },
+    {
+      "id": "concepts/sacred-center-first-urbanism@93f3633c2608647065ce3e3810bc5cbefa190ffc",
+      "type": "new",
+      "date": "2026-05-21T22:36:23-05:00",
+      "docKey": "concepts/sacred-center-first-urbanism",
+      "routePath": "/concepts/sacred-center-first-urbanism",
+      "section": "concepts",
+      "title": "Sacred-center-first urbanism",
+      "description": "The street grid, building setbacks, and architectural rules organize around the sacred core (church, school, university, town center clustered at the center) rather than around commercial convenience."
+    },
+    {
+      "id": "concepts/semi-permeable-boundaries@93f3633c2608647065ce3e3810bc5cbefa190ffc",
+      "type": "new",
+      "date": "2026-05-21T22:36:23-05:00",
+      "docKey": "concepts/semi-permeable-boundaries",
+      "routePath": "/concepts/semi-permeable-boundaries",
+      "section": "concepts",
+      "title": "Semi-permeable boundaries",
+      "description": "The Goshen pattern: thick spiritual core at the center (university, parish, school with mission-shaped admissions), legally permeable shell on the outside (open-market housing, federally protected non-discrimination)."
+    },
+    {
+      "id": "concepts/single-anchor-dependency-risk@93f3633c2608647065ce3e3810bc5cbefa190ffc",
+      "type": "updated",
+      "date": "2026-05-21T22:36:23-05:00",
+      "docKey": "concepts/single-anchor-dependency-risk",
+      "routePath": "/concepts/single-anchor-dependency-risk",
+      "section": "concepts",
+      "title": "Single-anchor dependency risk",
+      "description": "When a village depends on one industrial anchor for its continued thriving, the village inherits every vulnerability of the anchor. The structural failure mode every Christoindustrialist must engineer against."
+    },
+    {
+      "id": "concepts/stewardship-community-district@93f3633c2608647065ce3e3810bc5cbefa190ffc",
+      "type": "new",
+      "date": "2026-05-21T22:36:23-05:00",
+      "docKey": "concepts/stewardship-community-district",
+      "routePath": "/concepts/stewardship-community-district",
+      "section": "concepts",
+      "title": "Stewardship community district",
+      "description": "Florida's special-purpose legal-infrastructure vehicle. A public-law chassis for roads, utilities, assessments, bonds, and conservation that lets a founder + developer plan a town without waiting for an incorporated municipality. Ave Maria's institutional backbone."
+    },
+    {
+      "id": "concepts/village-feasibility-conditions@93f3633c2608647065ce3e3810bc5cbefa190ffc",
+      "type": "updated",
+      "date": "2026-05-21T22:36:23-05:00",
+      "docKey": "concepts/village-feasibility-conditions",
+      "routePath": "/concepts/village-feasibility-conditions",
+      "section": "concepts",
+      "title": "Village feasibility conditions",
+      "description": "Four conditions a Christoindustrialist needs to honestly assess before claiming a village strategy is feasible: a dominant-trajectory anchor industry, multi-generational founding-family commitment, a low-friction host location, and decades of continuous time."
+    },
+    {
+      "id": "inspirations/2026-05-21-ave-maria-florida@93f3633c2608647065ce3e3810bc5cbefa190ffc",
+      "type": "new",
+      "date": "2026-05-21T22:36:23-05:00",
+      "docKey": "inspirations/2026-05-21-ave-maria-florida",
+      "routePath": "/inspirations/2026-05-21-ave-maria-florida",
+      "section": "inspirations",
+      "title": "What Ave Maria, Florida teaches a Christoindustrialist",
+      "description": "Tom Monaghan + Barron Collier built a Catholic-anchored master-planned town in Southwest Florida over 20 years. The patterns, the failure modes, and the four-condition fit that make Ave Maria the closest existing Christian-anchored parallel to a Christofuturist village."
+    },
+    {
+      "id": "playbooks/christian-university-as-village-anchor@93f3633c2608647065ce3e3810bc5cbefa190ffc",
+      "type": "new",
+      "date": "2026-05-21T22:36:23-05:00",
+      "docKey": "playbooks/christian-university-as-village-anchor",
+      "routePath": "/playbooks/christian-university-as-village-anchor",
+      "section": "playbooks",
+      "title": "Christian university as village anchor",
+      "description": "The university as the village's gravitational center: faculty residence, student vitality, sacramental rhythm, vocational pipeline, cultural authority. Ave Maria University is the working example."
+    },
+    {
+      "id": "playbooks/classical-school-as-village-anchor@93f3633c2608647065ce3e3810bc5cbefa190ffc",
+      "type": "new",
+      "date": "2026-05-21T22:36:23-05:00",
+      "docKey": "playbooks/classical-school-as-village-anchor",
+      "routePath": "/playbooks/classical-school-as-village-anchor",
+      "section": "playbooks",
+      "title": "Classical school as village anchor",
+      "description": "The K-12 parish-run classical Catholic or Christian school as the village's anchor institution. Lower capital requirement than a university. Donahue Academy is the working example."
+    },
+    {
+      "id": "case-studies/bentonville-walmart-anchored-town@7b6c4e1bd046230106f9df35d3ef77b89069ef5f",
+      "type": "new",
+      "date": "2026-05-21T22:17:31-05:00",
+      "docKey": "case-studies/bentonville-walmart-anchored-town",
+      "routePath": "/case-studies/bentonville-walmart-anchored-town",
+      "section": "case-studies",
+      "title": "Bentonville: the Walmart-anchored town",
+      "description": "A 25-year case study of what a single anchor industry plus a founding family that stayed can produce. The most complete secular precursor we have to a Christofuturist village, including the patterns to imitate and the failure modes to invert."
+    },
+    {
+      "id": "concepts/asymmetric-rising-tide@7b6c4e1bd046230106f9df35d3ef77b89069ef5f",
+      "type": "new",
+      "date": "2026-05-21T22:17:31-05:00",
+      "docKey": "concepts/asymmetric-rising-tide",
+      "routePath": "/concepts/asymmetric-rising-tide",
+      "section": "concepts",
+      "title": "Asymmetric rising tide",
+      "description": "Economic uplift without intentional affordability mechanisms displaces the very people a Christoindustrialist set out to serve. The lift is unevenly distributed by design unless you design otherwise."
+    },
+    {
+      "id": "concepts/private-capital-replaces-public-infrastructure@7b6c4e1bd046230106f9df35d3ef77b89069ef5f",
+      "type": "new",
+      "date": "2026-05-21T22:17:31-05:00",
+      "docKey": "concepts/private-capital-replaces-public-infrastructure",
+      "routePath": "/concepts/private-capital-replaces-public-infrastructure",
+      "section": "concepts",
+      "title": "Private capital replaces public infrastructure",
+      "description": "A Christoindustrialist with sufficient capital can fund civic infrastructure directly on their own timeline rather than waiting for public budgets. The speed advantage is real, the dependency tradeoff is real, and the accountability question is the one to solve."
+    },
+    {
+      "id": "concepts/single-anchor-dependency-risk@7b6c4e1bd046230106f9df35d3ef77b89069ef5f",
+      "type": "new",
+      "date": "2026-05-21T22:17:31-05:00",
+      "docKey": "concepts/single-anchor-dependency-risk",
+      "routePath": "/concepts/single-anchor-dependency-risk",
+      "section": "concepts",
+      "title": "Single-anchor dependency risk",
+      "description": "When a village depends on one industrial anchor for its continued thriving, the village inherits every vulnerability of the anchor. The structural failure mode every Christoindustrialist must engineer against."
+    },
+    {
+      "id": "concepts/supplier-cluster-effect@7b6c4e1bd046230106f9df35d3ef77b89069ef5f",
+      "type": "new",
+      "date": "2026-05-21T22:17:31-05:00",
+      "docKey": "concepts/supplier-cluster-effect",
+      "routePath": "/concepts/supplier-cluster-effect",
+      "section": "concepts",
+      "title": "Supplier-cluster effect",
+      "description": "A dominant industry pulls its supply chain into physical colocation, and the resulting cluster becomes a network-effect multiplier on village growth. Plan for it intentionally rather than reactively."
+    },
+    {
+      "id": "concepts/village-as-talent-retention-strategy@7b6c4e1bd046230106f9df35d3ef77b89069ef5f",
+      "type": "new",
+      "date": "2026-05-21T22:17:31-05:00",
+      "docKey": "concepts/village-as-talent-retention-strategy",
+      "routePath": "/concepts/village-as-talent-retention-strategy",
+      "section": "concepts",
+      "title": "Village as talent-retention strategy",
+      "description": "The Christofuturist village is not an aesthetic preference of the Christoindustrialist; it is the load-bearing retention layer that holds elite talent against the gravity of secular metros."
+    },
+    {
+      "id": "concepts/village-feasibility-conditions@7b6c4e1bd046230106f9df35d3ef77b89069ef5f",
+      "type": "new",
+      "date": "2026-05-21T22:17:31-05:00",
+      "docKey": "concepts/village-feasibility-conditions",
+      "routePath": "/concepts/village-feasibility-conditions",
+      "section": "concepts",
+      "title": "Village feasibility conditions",
+      "description": "Four conditions a Christoindustrialist needs to honestly assess before claiming a village strategy is feasible: a dominant-trajectory anchor industry, multi-generational founding-family commitment, a low-friction host location, and decades of continuous time."
+    },
+    {
+      "id": "inspirations/2026-05-21-bentonville-walmart-anchored-town@7b6c4e1bd046230106f9df35d3ef77b89069ef5f",
+      "type": "new",
+      "date": "2026-05-21T22:17:31-05:00",
+      "docKey": "inspirations/2026-05-21-bentonville-walmart-anchored-town",
+      "routePath": "/inspirations/2026-05-21-bentonville-walmart-anchored-town",
+      "section": "inspirations",
+      "title": "What Bentonville teaches a Christoindustrialist",
+      "description": "The Walton family + Walmart built a thriving small city around their corporate HQ over 25 years. The patterns, the failure modes, and the four conditions a Christoindustrialist would need to satisfy to do the same with Christ at the center."
+    },
+    {
+      "id": "playbooks/recreational-anchoring-strategy@7b6c4e1bd046230106f9df35d3ef77b89069ef5f",
+      "type": "new",
+      "date": "2026-05-21T22:17:31-05:00",
+      "docKey": "playbooks/recreational-anchoring-strategy",
+      "routePath": "/playbooks/recreational-anchoring-strategy",
+      "section": "playbooks",
+      "title": "Recreational anchoring strategy",
+      "description": "Pick a distinctive recreational identity, invest at a world-class level, and attract the demographic that values it. The playbook Tom and Steuart Walton ran on mountain biking, adapted for a Christofuturist village."
+    },
+    {
+      "id": "reference/village-research-prompt@d3799d80ec0cb07bd26d0da9bbc0b63a8ab3ae6d",
+      "type": "new",
+      "date": "2026-05-21T21:18:04-05:00",
+      "docKey": "reference/village-research-prompt",
+      "routePath": "/reference/village-research-prompt",
+      "section": "reference",
+      "title": "Village research prompt"
+    },
+    {
+      "id": "concepts/sample-concept@9272d097c9488a618d0f3f190f62895a3af2c70b",
+      "type": "removed",
+      "date": "2026-05-21T21:15:38-05:00",
+      "docKey": "concepts/sample-concept",
+      "routePath": "",
+      "section": "concepts",
+      "title": "Sample Concept",
+      "description": "A one-line definition of the sample concept. Quotable, plain, no rhetorical flourishes."
+    },
+    {
+      "id": "reference/glossary@9272d097c9488a618d0f3f190f62895a3af2c70b",
+      "type": "removed",
+      "date": "2026-05-21T21:15:38-05:00",
+      "docKey": "reference/glossary",
+      "routePath": "",
+      "section": "reference",
+      "title": "Glossary",
+      "description": "One-line-per-term summary across the whole wiki."
+    },
+    {
+      "id": "reference/graphic-style@9272d097c9488a618d0f3f190f62895a3af2c70b",
+      "type": "removed",
+      "date": "2026-05-21T21:15:38-05:00",
+      "docKey": "reference/graphic-style",
+      "routePath": "",
+      "section": "reference",
+      "title": "Graphic Style",
+      "description": "Visual conventions for illustrations and diagrams on this wiki. The default is comic-strip article summaries in the Supersuit Up family style."
+    },
+    {
+      "id": "reference/lexicon@9272d097c9488a618d0f3f190f62895a3af2c70b",
+      "type": "new",
+      "date": "2026-05-21T21:15:38-05:00",
+      "docKey": "reference/lexicon",
+      "routePath": "/reference/lexicon",
+      "section": "reference",
+      "title": "Lexicon"
+    },
+    {
+      "id": "reference/voice-rules@9272d097c9488a618d0f3f190f62895a3af2c70b",
+      "type": "updated",
+      "date": "2026-05-21T21:15:38-05:00",
+      "docKey": "reference/voice-rules",
+      "routePath": "/reference/voice-rules",
+      "section": "reference",
+      "title": "Voice rules"
+    },
+    {
+      "id": "start-here/intro@9272d097c9488a618d0f3f190f62895a3af2c70b",
+      "type": "new",
+      "date": "2026-05-21T21:15:38-05:00",
+      "docKey": "start-here/intro",
+      "routePath": "/",
+      "section": "start-here",
+      "title": "What is a Christofuturist village?"
+    },
+    {
+      "id": "start-here/the-refound-america-manifesto@9272d097c9488a618d0f3f190f62895a3af2c70b",
+      "type": "new",
+      "date": "2026-05-21T21:15:38-05:00",
+      "docKey": "start-here/the-refound-america-manifesto",
+      "routePath": "/start-here/the-refound-america-manifesto",
+      "section": "start-here",
+      "title": "The Refound America Manifesto"
+    },
+    {
+      "id": "start-here/who-this-is-for@9272d097c9488a618d0f3f190f62895a3af2c70b",
+      "type": "new",
+      "date": "2026-05-21T21:15:38-05:00",
+      "docKey": "start-here/who-this-is-for",
+      "routePath": "/start-here/who-this-is-for",
+      "section": "start-here",
+      "title": "Who this wiki is for"
+    },
+    {
+      "id": "concepts/sample-concept@18d2d6ad6cb91908d7cfca6439383f8c92280b1c",
+      "type": "new",
+      "date": "2026-05-21T22:02:07-04:00",
+      "docKey": "concepts/sample-concept",
+      "routePath": "",
+      "section": "concepts",
+      "title": "Sample Concept",
+      "description": "A one-line definition of the sample concept. Quotable, plain, no rhetorical flourishes."
+    },
+    {
+      "id": "reference/glossary@18d2d6ad6cb91908d7cfca6439383f8c92280b1c",
+      "type": "new",
+      "date": "2026-05-21T22:02:07-04:00",
+      "docKey": "reference/glossary",
+      "routePath": "",
+      "section": "reference",
+      "title": "Glossary",
+      "description": "One-line-per-term summary across the whole wiki."
+    },
+    {
+      "id": "reference/graphic-style@18d2d6ad6cb91908d7cfca6439383f8c92280b1c",
+      "type": "new",
+      "date": "2026-05-21T22:02:07-04:00",
+      "docKey": "reference/graphic-style",
+      "routePath": "",
+      "section": "reference",
+      "title": "Graphic Style",
+      "description": "Visual conventions for illustrations and diagrams on this wiki. The default is comic-strip article summaries in the Supersuit Up family style."
+    },
+    {
+      "id": "reference/voice-rules@18d2d6ad6cb91908d7cfca6439383f8c92280b1c",
+      "type": "new",
+      "date": "2026-05-21T22:02:07-04:00",
+      "docKey": "reference/voice-rules",
+      "routePath": "/reference/voice-rules",
+      "section": "reference",
+      "title": "Voice rules"
+    }
+  ]
+}
